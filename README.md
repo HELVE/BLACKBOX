@@ -1,3 +1,5 @@
+![Project Banner](/blackbox-banner.png)
+
 # HELVE AVR / BLΛCKBOX
 ## Experimental Interactive Art & Technology Museum + Habitation Modules
 
