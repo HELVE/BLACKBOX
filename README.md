@@ -12,7 +12,7 @@ It included a habitation section suspended from the ceiling of the Blackbox with
 My mind seems to be 100% eccentric these days. I'll just follow where it leads me. #perfectfutura
 
 ---
-**Raw description from the structure:** 
+**Raw structure description from the dream:** 
 
 Helve HQ Blackbox is a rectangular cube-like black aluminum structure that has highdef top to bottom large screens/projections inside for the purposes of experimentation and exhibition. Floor is shiny black almost resembling a mirror to expand the visuals beyond the frames of the visual. 
 
