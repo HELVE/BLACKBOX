@@ -1,5 +1,5 @@
-# BLACKBOX
-Experimental Interactive Art Museum + Habitation
+# HELVE AVR / BLΛCKBOX
+## Experimental Interactive Art & Technology Museum + Habitation Modules
 
 Today I had a dream I was a head of an interactive art museum experiment called Helve AVR Blackbox. I lived and created projects in that box. Only opened up for a couple of unique exhibitions several times a year for huge profit margins, which in turn allowed me to research tech for extended periods of time.
 
