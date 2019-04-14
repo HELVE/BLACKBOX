@@ -14,7 +14,7 @@ My mind seems to be 100% eccentric these days. I'll just follow where it leads m
 ---
 **Raw structure description from the dream:** 
 
-Helve HQ Blackbox is a rectangular cube-like black aluminum structure that has highdef top to bottom large screens/projections inside for the purposes of experimentation and exhibition. Floor is shiny black almost resembling a mirror to expand the visuals beyond the frames of the visual. 
+Helve HQ Blackbox is a rectangular cube-like black aluminum structure that has highdef top to bottom large screens/projections inside for the purposes of experimentation and exhibition. Floor is shiny black almost resembling a mirror to expand the visuals beyond the frames of the visual. Suspension capabilities for screens (for example to create a physical/visual maze inside the structure).
 
 Motion capture greenscreen wheeled platform on demand, some spots underneath the roof (theatre hidden spots), elevator takes you to the habitation module, which is suspended in the middle of the structure, half submerged into the roof level, has a glass roof as well with possibility of dimming the barriers. 
 
