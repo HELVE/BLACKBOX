@@ -4,7 +4,7 @@
 **Experimental Interactive Art & Technology Museum + Habitation Module**
 
 ## Iteration 01_
-Make an interactive VR version of the Blackbox for people to visit (similar to Crows Crows Crows Museum). Include Helve HQ headquarters where I can spend time in VR and think about projects - it could contain private project databases. Definitely will hold seasonal events with various types of exhibitions (photo, video, interactive, vj). Hitech Crime concerts would be another location somewhere deep underground? Not sure. Offsite at least. Include lots of Easter Eggs and hidden information with every release/update.
+*Update:* Make an interactive VR version of the Blackbox for people to visit (similar to Crows Crows Crows Museum). Include Helve HQ headquarters where I can spend time in VR and think about projects - it could contain private project databases. Definitely will hold seasonal events with various types of exhibitions (photo, video, interactive, vj). Hitech Crime concerts would be another location somewhere deep underground? Not sure. Offsite at least. Include lots of Easter Eggs and hidden information with every release/update. Naming: Blackbox Entry?
 
 Today I had a dream I was a head of an interactive art museum experiment called Helve AVR Blackbox. I lived and created projects in that box. Only opened up for a couple of unique exhibitions several times a year for huge profit margins, which in turn allowed me to research tech for extended periods of time.
 
