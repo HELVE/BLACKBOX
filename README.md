@@ -16,6 +16,8 @@ It included a habitation section suspended from the ceiling of the Blackbox with
 
 My mind seems to be 100% eccentric these days. I'll just follow where it leads me. #perfectfutura
 
+- make a mockup
+
 ---
 **Raw structure description from the dream:** 
 
