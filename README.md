@@ -6,7 +6,11 @@
 ## Iteration 01_
 
 ### BLΛCKBOX VR EDITION Λ<->V
-*Update:* Make an interactive VR version of the Blackbox for people to visit (similar to Crows Crows Crows Museum). Include Helve HQ headquarters where I can spend time in VR and think about projects - it could contain private project databases. Definitely will hold seasonal events with various types of exhibitions (photo, video, interactive, vj). Hitech Crime concerts would be another location somewhere deep underground? Not sure. Offsite at least. Include lots of Easter Eggs and hidden information with every release/update. Naming: Blackbox Entry?
+*Update:* Make an interactive VR version of the Blackbox for people to visit (similar to Crows Crows Crows Museum). Include Helve HQ headquarters where I can spend time in VR and think about projects - it could contain private project databases. Definitely will hold seasonal events with various types of exhibitions (photo, video, interactive, vj). Hitech Crime concerts would be another location somewhere deep underground? Not sure. Offsite at least. 
+
+Imagine going to a VR concert through actual location.
+
+Include lots of Easter Eggs and hidden information with every release/update. Naming: Blackbox Entry?
 
 - make a mockup museum https://www.youtube.com/watch?v=UfyD0ok3J9Q
 
